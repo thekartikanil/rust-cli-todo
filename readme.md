@@ -26,7 +26,7 @@ The **Timed Todo Application** is a command-line tool built in Rust for managing
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/timed-todo.git
+   git clone https://github.com/thekartikanil/timed-todo.git
    cd timed-todo
    ```
 
@@ -50,7 +50,7 @@ The **Timed Todo Application** is a command-line tool built in Rust for managing
   ```
   Example:
   ```bash
-  -- add Write a blog post
+  -- add Write-a-blog-post
   ```
 
 - **List Tasks**:
@@ -156,7 +156,7 @@ We welcome contributions from the community! Here’s how you can get involved:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](	AFL-3.0) file for details.
 
 ## Acknowledgements
 
